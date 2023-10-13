@@ -1,0 +1,23 @@
+body {
+  background-color: LIGHTBLUE
+}
+
+ h1 { 
+ color: darkblue
+ } 
+
+h3 {
+  color: blue
+}
+p {
+  font-family: arial;
+  font-size: 12 px;
+  color: gray;
+}
+
+div {
+  background-color: black;
+  width: 400 px;
+  color: white;
+}
+
